@@ -22,3 +22,17 @@
 > webassembly x 3,113,525 ops/sec ±0.28% (88 runs sampled)
 >
 > Fastest is webassembly
+
+
+#### reference:
+
+> webassembly compatibility: https://developer.mozilla.org/zh-CN/docs/WebAssembly
+
+> compile C/C++ to wasm: https://developer.mozilla.org/en-US/docs/WebAssembly/C_to_wasm
+
+> AutoCAD website: https://www.autodesk.com/products/autocad-web-app/overview
+
+> AutoCAD Web App blog: https://blogs.autodesk.com/autocad/autocad-web-app-google-io-2018/
+
+> AutoCAD written in C++: https://www.quora.com/What-programming-language-is-used-for-AutoCAD
+
