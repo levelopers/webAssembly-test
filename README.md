@@ -24,7 +24,11 @@
 > Fastest is webassembly
 
 
+
+
 #### reference:
+
+> webassembly concept: https://developer.mozilla.org/zh-CN/docs/WebAssembly/Concepts
 
 > webassembly compatibility: https://developer.mozilla.org/zh-CN/docs/WebAssembly
 
@@ -42,5 +46,11 @@
   <summary>autoCAD website</summary>
   
   ![autoCAD](https://user-images.githubusercontent.com/38830527/140081085-51bce7b4-9947-43f0-83b5-0eec1a4ac4b0.PNG)
+</details>
+
+<details>
+  <summary>how webassembly works</summary>
+  
+  ![flowchart](https://media.prod.mdn.mozit.cloud/attachments/2017/02/15/14647/b5965e58a92d6d4b99a1b5a435253290/emscripten-diagram.png)
 </details>
 
